@@ -1,0 +1,6 @@
+{
+	"appId": "com.loginapp.fblogin",
+	"appName": "loginfbapp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

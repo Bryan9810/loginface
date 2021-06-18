@@ -1,0 +1,7 @@
+{
+  "name": "loginfbapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
